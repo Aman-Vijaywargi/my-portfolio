@@ -1,123 +1,53 @@
----
-layout: default
----
+# Experience
+**RD&X** | Frontend Developer
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Tech stack: React, redux, postman, backbone, nodejs
+* Worked on 3 of our products: Rebid Buy, Rebid Desk and Rebid Insights. Implemented single sign on (SSO) feature so that all the apps can be accessible with same account.
+* Worked as fun committee member so that we all get connected to each other and work with them in team building activities.
+* Developed many features for the company in given time
 
-[Link to another page](./another-page.html).
+# Internships/certificates
+**Supraja Technologies** | Ethical Hacking
 
-There should be whitespace between paragraphs.
+* Learnt about the responsibilities and working of an ethical hacker.
+* Understoood how we need to keep ourselves safe from internet world
+* Gained hands on experience of various tools like wireshark, nessus, Advanced IP scanner
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Projects
 
-# Header 1
+### College ERP System | Personal Project
+* This gives us live feed of our daily college work.
+* Provide us daily attendance from it.
+* Display our exam results, library account due, placement updates of college.
+* Working on authentication, storing data, updating news feed
+**Role:** Developer | **Tech Stack:** HTML, CSS, Javascript
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Sequence memory game | Personal Project
+* A memory-based game.
+* Check your concentration level.
+* Good practice to test your memory
+**Role:** Developer | **Tech Stack:** HTML, CSS, Javascript
 
-## Header 2
+### Reverse Countdown Timer | Newton School
+* Starts a reverse timeout.
+* Time given in seconds format.
+* Helps you to practice time management.
+**Role:** Developer | **Tech Stack:** HTML, CSS, React
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Menu card | Personal Project
+* Display the menu items with category option
+* Easy to access
+* Mobile friendly menu card
+**Role:** Developer | **Tech Stack:** HTML, CSS, React
 
-### Header 3
+# Skills
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+* Computer languages Java, CSS, HTML, JavaScript
+* Software Packages Bootstrap, MySQL, MongoDb
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+# Co-Curricular Activities
+* Impressed to be the CR in my college Guru Nanak Institutions Technical Campus
+* Placement cell student volunteer.
+* Participated in C Champs conducted by my college
+* Attended the workshop of AI
+* Won 2nd price in pre-srujana Paper presentation competition conducted by ABVP
